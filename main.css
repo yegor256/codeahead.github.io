@@ -6,13 +6,14 @@ body {
   padding: 1em;
 }
 section {
-  width: 32em;
+  width: 24em;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
 .logo {
   width: 128px;
+  border: 1px solid lightgray;
 }
 a {
   text-decoration: none;
